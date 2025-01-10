@@ -1,1 +1,1 @@
-# blackjack
+# blackjack in the terminal
